@@ -21,7 +21,7 @@ license = "GPL-3.0"
 license-files = ["LICEN[CS]E*"]
 
 [tool.setuptools]
-packages = ["pyFreeFem"]
+packages = ["pyFreeFem","pyFreeFem.FreeFemTools","pyFreeFem.meshTools"]
 
 [project.urls]
 Homepage = "https://github.com/odevauchelle/pyFreeFem"

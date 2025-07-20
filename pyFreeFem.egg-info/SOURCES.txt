@@ -10,3 +10,10 @@ pyFreeFem.egg-info/PKG-INFO
 pyFreeFem.egg-info/SOURCES.txt
 pyFreeFem.egg-info/dependency_links.txt
 pyFreeFem.egg-info/top_level.txt
+pyFreeFem/FreeFemTools/FreeFemStatics.py
+pyFreeFem/FreeFemTools/__init__.py
+pyFreeFem/FreeFemTools/edpTools.py
+pyFreeFem/meshTools/__init__.py
+pyFreeFem/meshTools/export_to_json.py
+pyFreeFem/meshTools/polygon_triangulate.py
+pyFreeFem/meshTools/segments.py
