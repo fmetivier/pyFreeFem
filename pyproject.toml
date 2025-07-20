@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyFreeFem"
+version = "0.0.1"
+authors = [
+  { name="Olivier Devauchelle", email="devauchelle@ipgp.fr" },
+]
+
+description = "a package to model freshwater lenses of small islands"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+license = "GPL-3.0"
+license-files = ["LICEN[CS]E*"]
+
+[tool.setuptools]
+packages = ["pyFreeFem"]
+
+[project.urls]
+Homepage = "https://github.com/odevauchelle/pyFreeFem"
+Issues = "https://github.com/odevauchelle/pyFreeFem/issues"
