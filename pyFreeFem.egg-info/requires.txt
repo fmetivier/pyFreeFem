@@ -1,0 +1,4 @@
+triangle
+numpy
+scipy
+matplotlib

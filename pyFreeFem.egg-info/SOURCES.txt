@@ -9,6 +9,7 @@ pyFreeFem/functions.py
 pyFreeFem.egg-info/PKG-INFO
 pyFreeFem.egg-info/SOURCES.txt
 pyFreeFem.egg-info/dependency_links.txt
+pyFreeFem.egg-info/requires.txt
 pyFreeFem.egg-info/top_level.txt
 pyFreeFem/FreeFemTools/FreeFemStatics.py
 pyFreeFem/FreeFemTools/__init__.py
